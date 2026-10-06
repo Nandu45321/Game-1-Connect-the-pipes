@@ -26608,226 +26608,310 @@
   },
   "summary": {
     "solved": false,
-    "steps_total": 18,
-    "steps_legal": 18,
+    "steps_total": 25,
+    "steps_legal": 25,
     "steps_illegal": 0,
-    "game_time": 18.0
+    "game_time": 25.0
   },
   "history": [
     {
-      "piece_id": 18,
+      "piece_id": 23,
       "position": [
         10,
         10
       ],
-      "chosen_arm": 0,
+      "chosen_arm": null,
       "new_chain_end": [
-        10,
-        20
+        34,
+        22
       ]
     },
     {
-      "piece_id": 9,
+      "piece_id": 21,
       "position": [
-        10,
-        20
+        34,
+        22
       ],
-      "chosen_arm": 0,
-      "new_chain_end": [
-        30,
-        35
-      ]
-    },
-    {
-      "piece_id": 15,
-      "position": [
-        30,
-        35
-      ],
-      "chosen_arm": 0,
+      "chosen_arm": null,
       "new_chain_end": [
         52,
-        48
-      ]
-    },
-    {
-      "piece_id": 6,
-      "position": [
-        52,
-        48
-      ],
-      "chosen_arm": 0,
-      "new_chain_end": [
-        68,
-        58
-      ]
-    },
-    {
-      "piece_id": 20,
-      "position": [
-        68,
-        58
-      ],
-      "chosen_arm": 0,
-      "new_chain_end": [
-        68,
-        87
-      ]
-    },
-    {
-      "piece_id": 5,
-      "position": [
-        68,
-        87
-      ],
-      "chosen_arm": 0,
-      "new_chain_end": [
-        84,
-        98
-      ]
-    },
-    {
-      "piece_id": 3,
-      "position": [
-        84,
-        98
-      ],
-      "chosen_arm": 0,
-      "new_chain_end": [
-        100,
-        108
-      ]
-    },
-    {
-      "piece_id": 10,
-      "position": [
-        100,
-        108
-      ],
-      "chosen_arm": 0,
-      "new_chain_end": [
-        120,
-        118
-      ]
-    },
-    {
-      "piece_id": 1,
-      "position": [
-        120,
-        118
-      ],
-      "chosen_arm": 0,
-      "new_chain_end": [
-        133,
-        118
-      ]
-    },
-    {
-      "piece_id": 8,
-      "position": [
-        133,
-        118
-      ],
-      "chosen_arm": 0,
-      "new_chain_end": [
-        153,
-        118
-      ]
-    },
-    {
-      "piece_id": 13,
-      "position": [
-        153,
-        118
-      ],
-      "chosen_arm": 0,
-      "new_chain_end": [
-        153,
-        135
+        37
       ]
     },
     {
       "piece_id": 4,
       "position": [
-        153,
-        135
+        52,
+        37
       ],
-      "chosen_arm": 0,
+      "chosen_arm": null,
       "new_chain_end": [
-        173,
-        147
+        72,
+        49
       ]
     },
     {
-      "piece_id": 14,
+      "piece_id": 9,
       "position": [
-        173,
-        147
+        72,
+        49
       ],
-      "chosen_arm": 0,
+      "chosen_arm": null,
       "new_chain_end": [
-        183,
-        155
+        92,
+        64
       ]
     },
     {
-      "piece_id": 11,
+      "piece_id": 20,
       "position": [
-        183,
-        155
+        92,
+        64
       ],
-      "chosen_arm": 0,
+      "chosen_arm": null,
       "new_chain_end": [
-        193,
-        165
+        92,
+        93
+      ]
+    },
+    {
+      "piece_id": 15,
+      "position": [
+        92,
+        93
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        114,
+        106
+      ]
+    },
+    {
+      "piece_id": 25,
+      "position": [
+        114,
+        106
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        128,
+        120
       ]
     },
     {
       "piece_id": 24,
       "position": [
-        193,
-        165
+        128,
+        120
       ],
-      "chosen_arm": 0,
+      "chosen_arm": null,
       "new_chain_end": [
-        207,
-        177
+        142,
+        132
+      ]
+    },
+    {
+      "piece_id": 13,
+      "position": [
+        142,
+        132
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        142,
+        149
+      ]
+    },
+    {
+      "piece_id": 1,
+      "position": [
+        142,
+        149
+      ],
+      "chosen_arm": 1,
+      "new_chain_end": [
+        142,
+        159
+      ]
+    },
+    {
+      "piece_id": 2,
+      "position": [
+        142,
+        159
+      ],
+      "chosen_arm": 1,
+      "new_chain_end": [
+        142,
+        169
+      ]
+    },
+    {
+      "piece_id": 16,
+      "position": [
+        142,
+        169
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        160,
+        169
+      ]
+    },
+    {
+      "piece_id": 18,
+      "position": [
+        160,
+        169
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        160,
+        179
       ]
     },
     {
       "piece_id": 19,
       "position": [
-        207,
-        177
+        160,
+        179
       ],
-      "chosen_arm": 0,
+      "chosen_arm": 1,
       "new_chain_end": [
-        216,
-        187
+        160,
+        189
       ]
     },
     {
-      "piece_id": 7,
+      "piece_id": 14,
       "position": [
-        216,
-        187
+        160,
+        189
       ],
-      "chosen_arm": 0,
+      "chosen_arm": null,
       "new_chain_end": [
-        233,
-        199
+        170,
+        197
+      ]
+    },
+    {
+      "piece_id": 8,
+      "position": [
+        170,
+        197
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        190,
+        197
+      ]
+    },
+    {
+      "piece_id": 11,
+      "position": [
+        190,
+        197
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        200,
+        207
       ]
     },
     {
       "piece_id": 12,
       "position": [
-        233,
-        199
+        200,
+        207
       ],
-      "chosen_arm": 0,
+      "chosen_arm": null,
       "new_chain_end": [
-        247,
-        205
+        214,
+        213
+      ]
+    },
+    {
+      "piece_id": 22,
+      "position": [
+        214,
+        213
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        225,
+        223
+      ]
+    },
+    {
+      "piece_id": 3,
+      "position": [
+        225,
+        223
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        241,
+        233
+      ]
+    },
+    {
+      "piece_id": 6,
+      "position": [
+        241,
+        233
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        257,
+        243
+      ]
+    },
+    {
+      "piece_id": 5,
+      "position": [
+        257,
+        243
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        273,
+        254
+      ]
+    },
+    {
+      "piece_id": 7,
+      "position": [
+        273,
+        254
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        290,
+        266
+      ]
+    },
+    {
+      "piece_id": 17,
+      "position": [
+        290,
+        266
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        307,
+        278
+      ]
+    },
+    {
+      "piece_id": 10,
+      "position": [
+        307,
+        278
+      ],
+      "chosen_arm": null,
+      "new_chain_end": [
+        327,
+        288
       ]
     }
   ],
@@ -26835,52 +26919,52 @@
     {
       "step": 1,
       "game_time": 1.0,
-      "piece_id": 18,
-      "arm": 0,
+      "piece_id": 23,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        10,
-        20
+        34,
+        22
       ],
       "solved": false
     },
     {
       "step": 2,
       "game_time": 2.0,
-      "piece_id": 9,
-      "arm": 0,
+      "piece_id": 21,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        30,
-        35
+        52,
+        37
       ],
       "solved": false
     },
     {
       "step": 3,
       "game_time": 3.0,
-      "piece_id": 15,
-      "arm": 0,
+      "piece_id": 4,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        52,
-        48
+        72,
+        49
       ],
       "solved": false
     },
     {
       "step": 4,
       "game_time": 4.0,
-      "piece_id": 6,
-      "arm": 0,
+      "piece_id": 9,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        68,
-        58
+        92,
+        64
       ],
       "solved": false
     },
@@ -26888,168 +26972,168 @@
       "step": 5,
       "game_time": 5.0,
       "piece_id": 20,
-      "arm": 0,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        68,
-        87
+        92,
+        93
       ],
       "solved": false
     },
     {
       "step": 6,
       "game_time": 6.0,
-      "piece_id": 5,
-      "arm": 0,
+      "piece_id": 15,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        84,
-        98
+        114,
+        106
       ],
       "solved": false
     },
     {
       "step": 7,
       "game_time": 7.0,
-      "piece_id": 3,
-      "arm": 0,
+      "piece_id": 25,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        100,
-        108
+        128,
+        120
       ],
       "solved": false
     },
     {
       "step": 8,
       "game_time": 8.0,
-      "piece_id": 10,
-      "arm": 0,
+      "piece_id": 24,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        120,
-        118
+        142,
+        132
       ],
       "solved": false
     },
     {
       "step": 9,
       "game_time": 9.0,
-      "piece_id": 1,
-      "arm": 0,
+      "piece_id": 13,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        133,
-        118
+        142,
+        149
       ],
       "solved": false
     },
     {
       "step": 10,
       "game_time": 10.0,
-      "piece_id": 8,
-      "arm": 0,
+      "piece_id": 1,
+      "arm": 1,
       "legal": true,
       "reason": null,
       "chain_end": [
-        153,
-        118
+        142,
+        159
       ],
       "solved": false
     },
     {
       "step": 11,
       "game_time": 11.0,
-      "piece_id": 13,
-      "arm": 0,
+      "piece_id": 2,
+      "arm": 1,
       "legal": true,
       "reason": null,
       "chain_end": [
-        153,
-        135
+        142,
+        169
       ],
       "solved": false
     },
     {
       "step": 12,
       "game_time": 12.0,
-      "piece_id": 4,
-      "arm": 0,
+      "piece_id": 16,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        173,
-        147
+        160,
+        169
       ],
       "solved": false
     },
     {
       "step": 13,
       "game_time": 13.0,
-      "piece_id": 14,
-      "arm": 0,
+      "piece_id": 18,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        183,
-        155
+        160,
+        179
       ],
       "solved": false
     },
     {
       "step": 14,
       "game_time": 14.0,
-      "piece_id": 11,
-      "arm": 0,
+      "piece_id": 19,
+      "arm": 1,
       "legal": true,
       "reason": null,
       "chain_end": [
-        193,
-        165
+        160,
+        189
       ],
       "solved": false
     },
     {
       "step": 15,
       "game_time": 15.0,
-      "piece_id": 24,
-      "arm": 0,
+      "piece_id": 14,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        207,
-        177
+        170,
+        197
       ],
       "solved": false
     },
     {
       "step": 16,
       "game_time": 16.0,
-      "piece_id": 19,
-      "arm": 0,
+      "piece_id": 8,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        216,
-        187
+        190,
+        197
       ],
       "solved": false
     },
     {
       "step": 17,
       "game_time": 17.0,
-      "piece_id": 7,
-      "arm": 0,
+      "piece_id": 11,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        233,
-        199
+        200,
+        207
       ],
       "solved": false
     },
@@ -27057,12 +27141,103 @@
       "step": 18,
       "game_time": 18.0,
       "piece_id": 12,
-      "arm": 0,
+      "arm": null,
       "legal": true,
       "reason": null,
       "chain_end": [
-        247,
-        205
+        214,
+        213
+      ],
+      "solved": false
+    },
+    {
+      "step": 19,
+      "game_time": 19.0,
+      "piece_id": 22,
+      "arm": null,
+      "legal": true,
+      "reason": null,
+      "chain_end": [
+        225,
+        223
+      ],
+      "solved": false
+    },
+    {
+      "step": 20,
+      "game_time": 20.0,
+      "piece_id": 3,
+      "arm": null,
+      "legal": true,
+      "reason": null,
+      "chain_end": [
+        241,
+        233
+      ],
+      "solved": false
+    },
+    {
+      "step": 21,
+      "game_time": 21.0,
+      "piece_id": 6,
+      "arm": null,
+      "legal": true,
+      "reason": null,
+      "chain_end": [
+        257,
+        243
+      ],
+      "solved": false
+    },
+    {
+      "step": 22,
+      "game_time": 22.0,
+      "piece_id": 5,
+      "arm": null,
+      "legal": true,
+      "reason": null,
+      "chain_end": [
+        273,
+        254
+      ],
+      "solved": false
+    },
+    {
+      "step": 23,
+      "game_time": 23.0,
+      "piece_id": 7,
+      "arm": null,
+      "legal": true,
+      "reason": null,
+      "chain_end": [
+        290,
+        266
+      ],
+      "solved": false
+    },
+    {
+      "step": 24,
+      "game_time": 24.0,
+      "piece_id": 17,
+      "arm": null,
+      "legal": true,
+      "reason": null,
+      "chain_end": [
+        307,
+        278
+      ],
+      "solved": false
+    },
+    {
+      "step": 25,
+      "game_time": 25.0,
+      "piece_id": 10,
+      "arm": null,
+      "legal": true,
+      "reason": null,
+      "chain_end": [
+        327,
+        288
       ],
       "solved": false
     }
